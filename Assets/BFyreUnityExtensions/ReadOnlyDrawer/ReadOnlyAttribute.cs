@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace BFyre.ReadOnlyDrawer
+namespace BFyreUnityExtensions.ReadOnlyDrawer
 {
     /// <summary>
     /// Serialized fields decorated with this attribute will be set as readonly in Unity inspector.

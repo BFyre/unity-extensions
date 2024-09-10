@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace BFyre.ReadOnlyDrawer
+namespace BFyreUnityExtensions.ReadOnlyDrawer.Editor
 {
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
     public class ReadOnlyDrawer : PropertyDrawer
