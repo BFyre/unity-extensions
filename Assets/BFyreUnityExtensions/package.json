@@ -1,0 +1,12 @@
+{
+  "name": "com.bfyre.unityextensions",
+  "displayName": "Inspector utilities and extensions",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Various extensions improving work with Unity inspector",
+  "keywords": ["Inspector", "UI"],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/BFyre/unity-extensions",
+  "changelogUrl": "https://github.com/BFyre/unity-extensions/releases",
+  "licensesUrl": "https://github.com/BFyre/unity-extensions/blob/master/LICENSE"
+}
